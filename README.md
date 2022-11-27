@@ -1,0 +1,1 @@
+The purpose of this project is to deploy a copy of the AirBnB website on our server. A command interpreter is a class of programs that read lines of text entered by a user. CMD.exe is one of the ways you can start a command interpreter. 
